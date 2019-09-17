@@ -4,6 +4,7 @@ by Jasper, Mike And Jan:
 [ ] Projectstart
 [ ] Projectplan
 [ ] The Repository is not private to be able to use gitkraken. 
+[ ] Can we use: https://github.com/jhhest/maps_feature/projects/ for tasklist, kanban boards, etc. 
 
 Practical questions?
 [ ] When will we make planning

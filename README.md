@@ -4,6 +4,12 @@
 
 ## Index
 
+[Open Points List](Documentation/Open_Points_List.md)
+[Software Requirements](Documentation/Software requirements.md)
+[Brainstorm](Documentation/brainstorm.md)
+[Project Plan](Documentation/project_Plan)
+[Tooling Description](Documentation/tooling_description.md)
+
 ### Original Project Assignment:
 
 > Voor het project ICT-Dagbesteding.nl, gewoonstage.nl en wonenwilikzo.nl gaan we een googlemaps feature maken waarin op een interactieve manier inzicht gegeven wordt voor de diverse mogelijkheden.
@@ -42,12 +48,10 @@ Webdevelopment:
 3. Every product will be checked by project leader.
 4. Communication to Projectowner will be through Projectleader.
 5. Everybody uses their own Google api key's
-6. Only commit code when something is noticably changed and make a proper description. 
-7. After committing code, only  do a push-request within a reasonable noticably change and mention at least one of your colleagues.
-8. Live branch will be communicated with project owner. 
-9. Development branch will be communicated with project leader. 
-10. Development branch merge in to live branch only with project leader. 
+6. Only commit code when something is noticably changed and make a proper description.
+7. After committing code, only do a push-request within a reasonable noticably change and mention at least one of your colleagues.
+8. Live branch will be communicated with project owner.
+9. Development branch will be communicated with project leader.
+10. Development branch merge in to live branch only with project leader.
 
 ## Brainstorm
-
-
