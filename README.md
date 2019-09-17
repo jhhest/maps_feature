@@ -2,14 +2,10 @@
 
 # Googlemaps feature.
 
-## Index
-
-[Open Points List](Documentation/Open_Points_List.md)
-[Software Requirements](Documentation/SoftwareRequirements.md)
-[Brainstorm](Documentation/brainstorm.md)
-[Project Plan](Documentation/project_Plan.md)
-[Tooling Description](Documentation/tooling_description.md)
-
+[Original Project assignment](maps_feature#original-project-assignment)
+[Project Roles](https://github.com/jhhest/maps_feature#project-roles)
+[Project Rules](https://github.com/jhhest/maps_feature#project-rules)
+[Project documents](https://github.com/jhhest/maps_feature#project-documents)
 ### Original Project Assignment:
 
 > Voor het project ICT-Dagbesteding.nl, gewoonstage.nl en wonenwilikzo.nl gaan we een googlemaps feature maken waarin op een interactieve manier inzicht gegeven wordt voor de diverse mogelijkheden.
@@ -28,18 +24,18 @@ Translated version:
 
 ### Project Roles:
 
-Projectowner:
+- Projectowner: \*
 
-- Luuk Penninx.
+* Luuk Penninx.
 
-Projectleader:
+- Projectleader: \*
 
-- Jasper Ras.
+* Jasper Ras.
 
-Webdevelopment:
+- Webdevelopment: \*
 
-- Mike van Dreumel.
-- Jan van Hest.
+* Mike van Dreumel.
+* Jan van Hest.
 
 ### Project Rules:
 
@@ -54,4 +50,11 @@ Webdevelopment:
 9. Development branch will be communicated with project leader.
 10. Development branch merge in to live branch only with project leader.
 
-## Brainstorm
+## Project Documents:
+
+
+- [Open Points List](Documentation/Open_Points_List.md)
+- [Software Requirements](Documentation/SoftwareRequirements.md)
+- [Brainstorm](Documentation/brainstorm.md)
+- [Project Plan](Documentation/project_Plan.md)
+- [Tooling Description](Documentation/tooling_description.md)
