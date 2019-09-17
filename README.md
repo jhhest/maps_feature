@@ -2,92 +2,52 @@
 
 # Googlemaps feature.
 
-Project definition:
-
 ## Index
+
+### Original Project Assignment:
+
+> Voor het project ICT-Dagbesteding.nl, gewoonstage.nl en wonenwilikzo.nl gaan we een googlemaps feature maken waarin op een interactieve manier inzicht gegeven wordt voor de diverse mogelijkheden.
+> Inspiratie: https://www.stagemarkt.nl maar dan met Google maps erbij.
+> Voor een voorbeeld van hoe we het ongeveer voor ogen hebben kan je kijken op: www.ondernemersgroepdriestroom.nl/ondernemeningen
+> Als aanvulling hierop willen we kunnen filteren op stad en straal vanaf een locatie.
+> Als je op de locatie klikt willen een kleine pop-up me de mogelijkheid om door te klikken naar een pagina met meer informatie.
+
+Translated version:
+
+> For the ICT-Dagbesteding.nl, Gewoonstage.nl and woonwilikzo.nl project we are going to create a Google Maps feature that provides insight into the various options in an interactive way.
+> Inspiration: https://www.stagemarkt.nl but then with Google maps.
+> For an example of what we have in mind, you can look at: www.ondernemersgroepdriestroom.nl/ondernemeningen
+> In addition to this, we want to be able to filter on city and radius from a location.
+> If you click on the location, a small pop-up will give me the option to click through to a page with more information.
+
+### Project Roles:
+
+Projectowner:
+
+- Luuk Penninx.
+
+Projectleader:
+
+- Jasper Ras.
+
+Webdevelopment:
+
+- Mike van Dreumel.
+- Jan van Hest.
+
+### Project Rules:
+
+1. Every projectmember makes uses of the recommended tools. It is okey to use your own software, as long as you are able to contribute to the project.
+2. Once a week there will be a meeting by webdevelopers and Project leader.
+3. Every product will be checked by project leader.
+4. Communication to Projectowner will be through Projectleader.
+5. Everybody uses their own Google api key's
+6. Only commit code when something is noticably changed and make a proper description. 
+7. After committing code, only  do a push-request within a reasonable noticably change and mention at least one of your colleagues.
+8. Live branch will be communicated with project owner. 
+9. Development branch will be communicated with project leader. 
+10. Development branch merge in to live branch only with project leader. 
 
 ## Brainstorm
 
-- [ ] Do we need a brainstorm?
-- [ ] How do we keep focus?
-- [ ] How do we make a plan? Inspirational source -> [Dit moet er in je projectplan (plan van aanpak)](https://www.managementsupport.nl/organiseren/artikel/2017/07/dit-moet-er-in-je-projectplan-plan-van-aanpak-10111127?vakmedianet-approve-cookies=1&_ga=2.8388018.1684325062.1568409837-597611537.1568409837)
-- [ ] What must the application do? What are the specifications?
-- [ ] Will we make a list how the software should work? Or write a technical document / software specification?
-- [ ] How wil information be deliverd? (adresses, names of location?)
-- [ ] Do we make a dummy site to place our maps feature in.
-- [ ] How to place a map? How to place a marker? How to place icons?
-- [ ] Can we split up are software in smaller portions.
-- [ ] Do we need a database apart or is customerdata placed locally on server?
-- [ ] Do we also need to make an interface to input data?
-- [ ] Backend/Frontend?
-- [ ] do we make mockups?
-* paper mockups can be downloaded from [printable sketches // mockups](https://sketchize.com/)
-
-- Een gebruiker moet een kaart kunnen bekijken waarop locaties van aanbieders worden weergegeven.
-
-- Een gebruiker moet een locatie makkelijk kunnen vinden op de kaart aan de hand van een icoon/marker.
-
-- Een gebruiker moet locaties kunnen onderscheiden op basis van icoon/marker. (-> Onderscheid op basis van aanbieder, categorie of iets anders? )
-
-- Een gebruiker moet de kaart kunnen bevragen op
-
-- onderwerp,
-
-- aanbieder,
-
-- categorie,
-
-- locatie,
-
-- afstand,
-
-- postcode,
-
-- Hoe wordt de informatie aangeleverd? Zelf invoeren of wordt het aangeleverd? Bestaande database?
-
-- Welke informatie is nodig?
-
-- Dienst beschrijving?
-
-- locatie naam?
-
-- Aanbieder naam?
-
-- Locatie?
-
-- Adres?
-
-Moederbedrijf
-
-dochterbedrijf
-
-aanbieder
-
-aanbiedernaam
-
-Beschrijving dienst
-
-locatie
-
-Locatie
-
-- Locatienaam
-
-- adres
-
-- plaatsnaam
-
-- dienstbeschrijving
-
-- telefoonnummer
-
-- email
-
-Sources:
-
-!!Important
-
-Any developer key's (i.e. google developer keys) should have dummy's.
-
-Your own key's should be placed behind a git ignore file.
 

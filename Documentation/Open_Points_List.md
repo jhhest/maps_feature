@@ -3,6 +3,7 @@ by Jasper, Mike And Jan:
 [ ] First Evaluation date?  
 [ ] Projectstart
 [ ] Projectplan
+[ ] The Repository is not private to be able to use gitkraken. 
 
 Practical questions?
 [ ] When will we make planning
