@@ -5,9 +5,9 @@
 ## Index
 
 [Open Points List](Documentation/Open_Points_List.md)
-[Software Requirements](Documentation/Software requirements.md)
+[Software Requirements](Documentation/SoftwareRequirements.md)
 [Brainstorm](Documentation/brainstorm.md)
-[Project Plan](Documentation/project_Plan)
+[Project Plan](Documentation/project_Plan.md)
 [Tooling Description](Documentation/tooling_description.md)
 
 ### Original Project Assignment:
