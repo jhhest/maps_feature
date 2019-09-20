@@ -1,38 +1,59 @@
-# Fase 1: Tooling bepalen, installeren en werkend krijgen.
+# Fase 1: Project initiation: 
 
-Tooling bepalen, installeren en werkend krijgen.
-
- - Visual studio code. 
-	 - extensies 
-		 - live server 
-		 - eslint 
-		 - bracket pair colorizer
-
-afspraken Password manager. 
-
-# Fase 2: Software requirements bepalen
+## 1.1 Project Description. 
+* add documentsfolder
+* create readme.md, contribution.md, project_plan.md, tooling_description.md, softwareRequirements.md and add content
+* tooling_description.md, softwareRequirements.md 
+* setup issue list. 
+* setup project Rules in contributing.md
+## 1.2: Tooling 
+* Decide which tooling to use
+* add content to tooling_description.md
+# Fase 2: Software requirements 
 ## 2.1 Persona's, use cases, Software requirement. 
-Persona. 
-Use cases beschrijven. 
-Niet functionele eisen. 
+* Describe Persona's
+* Describe Use Cases 
+* Describe Non functional requirements
+* Describe functional requirements 
 
 ## 2.2 Feedback. 
+* Ask feedback from projectleader
+* Implement feedback from projectleader. 
+* Projectleader asks feedback from projectowner. 
 
 ## 2.3 Testplan
-testplan schrijven a.d.h.v. software requirements. 
+* make a testplan. 
+# Fase 3: Project Planning.
+* Make a Projectplan. 
 
-# fase 3: Interface
-## 3.1 mockup interface/ui. 
-## 3.2 Feedback. 
-# Fase 4: Google maps Api
-## 4.1 Oefenen
-# Fase 5: Uitvoering
-## 5.1 pseudo code. 
-## 5.2 code review van vergelijkbare applicaties.
-## 5.3 bespreken en pseudo code aanpassen. 
-## 5.4 code schrijven. 
+
+# fase 4: Project Design
+## 4.1 mockup interface/ui.
+* make a mockup for the interface 
+## 4.2 Feedback. 
+* Ask feedback from projectleader
+* Implement feedback from projectleader. 
+* Projectleader asks feedback from projectowner. 
+## 4.3 Orientation
+* Learn Google Maps Javascript API
+* Review applications with similar functionality
+* Document best practices
+## 4.3 Software Design. 
+* Describe/make application with pseudo code. 
+* Review Pseudo code 
+* Make testplan. 
+# Fase 5: Project realisation. 
+## 5.4 code schrijven.
+* Make code.  
 ## 5.5 UI en code koppelen. 
-# Fase 6: Testen
-# Fase 7: Opleveren
-## 7.1 feedback ontvangen. 
-## 7.2 feedback verwerken. 
+* combine code and interface.
+# Fase 6: Project testing. 
+* test software with testplan. 
+* Fix bugs. 
+# Fase 7: Project presentation
+* Ask feedback from projectleader
+* Implement feedback from projectleader. 
+* Projectleader asks feedback from projectowner. 
+
+Sources to develop this document: 
+https://nl.wikipedia.org/wiki/Agile-softwareontwikkeling
